@@ -92,7 +92,6 @@ namespace CombustiPlus
             if (!DatosValidos()) return;
             Calcular();
         }
-
         // r5: guardar el despacho y mostrar el resumen
         private void btnDespachar_Click(object sender, EventArgs e)
         {
