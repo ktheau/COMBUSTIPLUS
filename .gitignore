@@ -1,0 +1,15 @@
+# visual studio cache/options
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# build folders
+bin/
+obj/
+
+# output files
+*.exe
+*.dll
+*.pdb
