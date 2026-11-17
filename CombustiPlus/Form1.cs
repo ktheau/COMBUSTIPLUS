@@ -24,7 +24,6 @@ namespace CombustiPlus
             cmbPago.SelectedIndex = 0;
             
         }
-
         // r3: revisar que la placa tenga 7 caracteres y que los galones sean mas de 0
         private bool DatosValidos()
         {
