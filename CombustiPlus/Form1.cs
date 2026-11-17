@@ -86,7 +86,6 @@ namespace CombustiPlus
             lstDetalle.Items.Add($"TOTAL: RD$ {total:N2}");
             return total;
         }
-
         // r4: boton cotizar
         private void btnCotizar_Click(object sender, EventArgs e)
         {
