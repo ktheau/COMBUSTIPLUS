@@ -144,7 +144,6 @@ namespace CombustiPlus
                 lblResumen.Text = $"{listaDespachos.Count} despachos - Vendido RD$ {vendido:N2} - Galones {galones:0.0} - Mayor: #{mayor.Numero:00} {mayor.Placa} (RD$ {mayor.Total:N2})";
             }
         }
-
         // r6: sumar galones por combustible usando dictionary
         private void btnPorCombustible_Click(object sender, EventArgs e)
         {
