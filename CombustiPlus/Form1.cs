@@ -41,7 +41,6 @@ namespace CombustiPlus
 
             return true;
         }
-
         // r4: calcular el total y mostrar el detalle paso a paso
         private decimal Calcular()
         {
