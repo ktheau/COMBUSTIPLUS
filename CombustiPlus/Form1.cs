@@ -22,7 +22,7 @@ namespace CombustiPlus
             cmbPago.Items.Add("Tarjeta");
             cmbCombustible.SelectedIndex = 0;
             cmbPago.SelectedIndex = 0;
-            btnPorCombustible.Click += btnPorCombustible_Click;
+            
         }
 
         // r3: revisar que la placa tenga 7 caracteres y que los galones sean mas de 0
